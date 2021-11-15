@@ -1,5 +1,8 @@
 # antibody_cages
 
+<p align="center">
+  <img src="Antibody_cages_bright" width="350" alt="Antibody cages, image credit to Ian Haydon">
+</p>
 ![Antibody cages, image credit to Ian Haydon](Antibody_cages_bright.png)
 
 ## Overview
